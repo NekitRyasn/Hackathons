@@ -3,3 +3,4 @@
 
 
 ## [Белкарт (2024)](https://github.com/glebgol/belkart-hackathon)
+## [Пеленг (2024)](https://github.com/glebgol/peleng-hackathon)
